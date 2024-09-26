@@ -1,0 +1,8 @@
+sources/
+tmp/
+*.bak
+*.class
+*.log
+*.orig
+*.tmp
+*.orig.java
